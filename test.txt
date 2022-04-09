@@ -1,1 +1,2 @@
 1 - tekst
+2 - wiersz
