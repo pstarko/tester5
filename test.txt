@@ -1,3 +1,4 @@
 1 - tekst
 2 - wiersz
 3 - tekst
+4 - dev
